@@ -1,0 +1,4 @@
+#-*- mode: mandoku-view; -*-
+#+TITLE: 菩提場所說一字頂輪王經
+#+DATE: 2015-08-30 20:26:19.383986
+#+PROPERTY: JUAN 0
