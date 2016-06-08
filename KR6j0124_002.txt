@@ -6,7 +6,7 @@
 #+PROPERTY: SOURCE Taisho Tripitaka Vol. 19, No. 950
 #+PROPERTY: VOL 19
 #+PROPERTY: BASEEDITION T
-#+PROPERTY: WITNESS master
+#+PROPERTY: WITNESS T@HARA
 #+PROPERTY: LASTPB <pb:KR6j0124_T_000-0193a>¶¶¶¶¶
 #+PROPERTY: LASTPB <pb:KR6j0124_T_002-0198b> 
 #+PROPERTY: JUAN 2
@@ -432,7 +432,7 @@
 
 真言曰。¶
 
-唵吒嚨(二合二)滿馱娑嚩(二合引)訶(引)¶
+唵吒[口*籠](二合二)滿馱娑嚩(二合引)訶(引)¶
 
 #+BEGIN_VERSE
 「　此辦事真言

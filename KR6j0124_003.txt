@@ -6,7 +6,7 @@
 #+PROPERTY: SOURCE Taisho Tripitaka Vol. 19, No. 950
 #+PROPERTY: VOL 19
 #+PROPERTY: BASEEDITION T
-#+PROPERTY: WITNESS master
+#+PROPERTY: WITNESS T@HARA
 #+PROPERTY: LASTPB <pb:KR6j0124_T_000-0193a>¶¶¶¶¶
 #+PROPERTY: LASTPB <pb:KR6j0124_T_003-0205c> ¶¶¶¶¶¶¶
 #+PROPERTY: JUAN 3
@@ -751,7 +751,7 @@
 
 即說真言曰。¶
 
-曩謨薩嚩怛他櫱帝瓢囉曷(二合)毘藥(二合)¶
+曩謨薩嚩怛他[卄/(阿-可+辛)/木]帝瓢囉曷(二合)毘藥(二合)¶
 三藐三沒第毘藥(二合)唵(引四)嚕嚕塞普(二合)¶
 嚕入嚩(二合)攞底瑟姹(二合)悉馱嚕左儞薩¶
 嚩囉他(二合)娑但儞娑嚩(二合引)訶¶
